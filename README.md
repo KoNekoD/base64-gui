@@ -1,4 +1,6 @@
-# base64-gui - Small program for base64 encoding and decoding in gui
+# base64-gui
+
+Small program for base64 encoding and decoding in gui
 
 # Demo
 
